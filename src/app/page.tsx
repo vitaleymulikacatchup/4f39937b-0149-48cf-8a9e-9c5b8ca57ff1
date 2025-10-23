@@ -37,7 +37,7 @@ export default function Page() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="YO YO"
+          title="PIDOR"
           description="Discover premium vehicles with competitive financing, expert service, and unmatched customer satisfaction at our trusted dealership."
           tag="Premium Dealership"
           tagIcon={Car}
